@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233938244284",
+    "project_id": "snapmatch-9f3a5",
+    "storage_bucket": "snapmatch-9f3a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233938244284:android:609833425b6f92956eb6b9",
+        "android_client_info": {
+          "package_name": "com.winkchat.id"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233938244284-c531cpjrsi50huf6ldo2rmaidvl2jddu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfbqmQFOBh_IWsT_J2P-DkAsY3YE_oDJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233938244284-c531cpjrsi50huf6ldo2rmaidvl2jddu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
